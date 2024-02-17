@@ -13,6 +13,7 @@ Tools used:
 Note: 
 1. Execute Chinook_PostgreSql.sql in Postgresql 
 2. Execute Chinook.ipynb in Jupyter Notebook
+3. We'll be doing data extraction with sql and data visualization in Jupyter Notebook
 
 Conclusion & findings: 
 1. USA, Canada, France, Brazil and UK are the top 5 countries with the most sales
