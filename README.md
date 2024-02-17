@@ -1,4 +1,4 @@
-#  Data analysis - Chinook Dataset 
+#  Data Analysis - Chinook Dataset 
 Objective: 
 1. Any correlation between genre and sales ?
 2. Which are the top countries with the most sales ?
