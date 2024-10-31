@@ -20,5 +20,5 @@ Source: https://github.com/lerocha/chinook-database
 1. USA, Canada, France, Brazil and UK are the top 5 countries with the most sales
 2. Rock, Latin, Metal and Alternative & Punk are the top 4 most bought genres respectively
 3. Trending genres from 2021 - 2025 tend to be Rock, Latin, Metal and Alternative & Punk
-4. Go to "Genre,Artist and Customers" to find the top artist for each respective journal
+4. Go to "Genre,Artist and Customers" to find the top artist for each respective genre
 * Execute the code for other insights
